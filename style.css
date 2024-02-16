@@ -1,0 +1,26 @@
+th, td, thead {
+    border: 2px solid #fff;
+    padding: 8px 10px;
+    color: #fff;
+   
+}
+
+.produtos-moda {
+    background-color: #BB86FC;
+}
+
+.produtos-casa {
+    background-color: #00C4B4;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #fff;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    text-align: center;
+}
+  tbody { 
+    background-color: #424250;
+}
